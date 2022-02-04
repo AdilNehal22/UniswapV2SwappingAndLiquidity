@@ -8,8 +8,8 @@ I request you if you find any mistake or issue please don't forget to email me a
 
 plus after cloning the repo, you would have to forking your mainnet for this... just type the....
 
-ganache-cli -f https://mainnet.infura.io/v3/my infura project id -u 0x742d35Cc6634C0532925a3b844Bc454e4438f44e on terminal.
-and then run node getSomeEth.js, don't fotget to switch to your localhost network on metamask before doing all this. 
+"ganache-cli -f https://mainnet.infura.io/v3/my_infura_project_id -u 0x742d35Cc6634C0532925a3b844Bc454e4438f44e" on terminal.
+and then run "node getSomeEth.js", don't fotget to switch to your localhost network on metamask before doing all this. 
 
 After running the forking cammond stop it.. and then run...
 

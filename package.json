@@ -1,0 +1,22 @@
+{
+  "name": "uniswapv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "ganache": "ganache-cli -m \"math cause hungry power abandon piano lounge apology waste moral\""
+  },
+  "author": "Adil Nehal",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.2",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "bn.js": "^5.2.0",
+    "dotenv": "^14.3.2",
+    "ganache-cli": "^6.12.2",
+    "web3": "^1.7.0"
+  }
+}
